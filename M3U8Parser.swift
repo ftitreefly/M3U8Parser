@@ -6,9 +6,7 @@
 //  Copyright © 2020 Utku Eray. All rights reserved.
 //
 
-import UIKit
-import AVFoundation
-import Alamofire
+import Foundation
 
 class M3U8Parser {
     
